@@ -9,7 +9,8 @@ body{
 	padding: 0;
 	font-size: 16px;
 	font-family: 'Open Sans', sans-serif;
-	color: #263238;
+    color: #263238;
+    height:auto;
 }
 
 .page{
@@ -36,6 +37,11 @@ header{
    margin:0 90%;
     color:#888;
     font-size:25pt;
+}
+
+section{
+    border-bottom-left-radius: 90px;
+    overflow:hidden;
 }
 
 ul{
